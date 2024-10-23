@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Maochan Zhen（甄茂禅）"
-description              : "Maochan Zhen description，description，description，description，description，description，description. "
+description              : "Research in CIAI, focus on LLM speedup and computer version."
 repository               : "zhenmaochan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
 
