@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Maochan Zhen（甄茂禅）"
+title                    : "Maochan Zhen(甄茂禅)"
 description              : "Researcher in CIAI, focus on LLM inference acceleration and AI4Science."
 repository               : "zhenmaochan/acad-homepage.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Maochan Zhen（甄茂禅）"
+  name             : "Maochan Zhen(甄茂禅)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "USTC"
   location         : "Zhengzhou, China"
