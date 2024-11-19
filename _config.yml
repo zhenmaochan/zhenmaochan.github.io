@@ -9,7 +9,7 @@
 title                    : "Maochan Zhen (甄茂禅)"
 description              : "Researcher in CIAI, focus on LLM inference acceleration and AI4Science."
 repository               : "zhenmaochan/acad-homepage.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
