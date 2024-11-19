@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/79b32f95-3478-477a-9623-50716ba62d7e)---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Maochan Zhen description.
+I work at CIAI (Central China Institute of Artificial Intelligence)  as a researcher now in Zhengzhou.
 
-My research interest includes LLM speedup and computer vision. I have published 2 papers at Remote Sensing and AI conferences with total <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am now working on LLM inference acceleration and AI4Science research, advised by Ming Li (李明).
 
+I graduated from University of Science and Technology of China with a master’s degree, advised by Tao Luo (罗涛) and Xuebin Li (李学彬). 
+
+I won the “Yuet Kwan” Merit Scholarship (悦群品学兼优奖学金)(2%) in 2023 and was selected as Provincial Outstanding Graduates in USTC (安徽省优秀毕业生) (4%).
+
+My research interest includes LLM inference acceleration and AI4Science. I have published 2 papers at the international academic journals and conferences with total <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+If you are seeking any form of academic cooperation, please feel free to email me at zhenmaochan@mail.ustc.edu.com.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Maochan Zhen . 
-- *2022.02*: &nbsp;🎉🎉 Maochan Zhen . 
+- *2024.09*: &nbsp;I join CIAI as a researcher in Zhengzhou!
+- *2023.03*: &nbsp;🎉🎉 one paper are accepted by Remote Sensing. 
+- *2023.02*: &nbsp;🎉🎉 one paper are accepted by CAICE 2023.
 
 # 📝 Publications 
 
@@ -36,26 +44,29 @@ My research interest includes LLM speedup and computer vision. I have published 
 **Maochan Zhen**, Mingjian Yi, Tao Luo, Feifei Wang, Kaixuan Yang, Xuebin Ma, Shengcheng Cui, Xuebin Li
 
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=OmiXteIAAAAJ&citation_for_view=OmiXteIAAAAJ:a0OBvERweLwC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- improve. 
+[**Project**](https://zhenmaochan.github.io/) <strong><span class='show_paper_citations' data='OmiXteIAAAAJ:ALROH1vI_8AC'></span></strong>
+- A new visibility prediction method based on stacking fusion model (VSFM) was established.
+- Predicted visibility using meteorological and pollutant concentrations with the accuracy of up to 93%.
+- Help to deepen the understanding of visibility influencing factors under complex urban pollution sources and improve the visibility prediction for bottom visibility scenarios under heavy pollution. 
 </div>
 </div>
 
-- [Lightweight visibility prediction method based on machine learning]([https://github.com](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12645/126452Y/Lightweight-visibility-prediction-method-based-on-machine-learning/10.1117/12.2681275.short)), Maochan Zhen, Mingjian Yi, Tao Luo, Feifei Wang, Kaixuan Yang, Xuebin Li, **CAICE 2023**
+- [Lightweight visibility prediction method based on machine learning](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12645/126452Y/Lightweight-visibility-prediction-method-based-on-machine-learning/10.1117/12.2681275.short), Maochan Zhen, Mingjian Yi, Tao Luo, Feifei Wang, Kaixuan Yang, Xuebin Li, **CAICE 2023**
 
 # 🎖 Honors and Awards
-- *2021.10* . 
-- *2021.09* . 
+- *2023.03* . Provincial Outstanding Graduates in USTC (安徽省优秀毕业生) (4%)
+- *2023.02* . “Yuet Kwan” Merit Scholarship (悦群品学兼优奖学金)(2%)
+- *2023.02* . First Prize in the 12th Chinese Collegiate Computing Competition (中国大学生计算机设计大赛国赛一等奖)(5%)
+- *2021.01* . CCF Big Data &Computing Intelligence Contest Top 10%
+- *2017.12* . National Inspirational Scholarship (5%)
 
 # 📖 Educations
-- *2024.09 - (now)*, Maochan Zhen. 
-- *2023.09 - 2024.06*, Maochan Zhen. 
-- *2020.06 - 2023.06*, Maochan Zhen. 
-- *2016.09 - 2020.06*, Maochan Zhen. 
+- *2023.09 - 2024.06*, Research Assistant, Chinese University of Hong Kong, Shenzhen. 
+- *2020.09 - 2023.06*, Master, Zhejiang University, Hefei. 
+- *2016.09 - 2020.06*, Undergraduate, Anhui Normal University, Wuhu.
 
 # 💬 Invited Talks
-- *2021.06*, Maochan Zhen  . 
-- *2021.03*, Maochan Zhen .  \| [\[video\]](https://github.com/)
+- *2024.00*, coming soon.  \| [\[video\]](https://zhenmaochan.github.io/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09 - 2024.06*, work as a RA in [CUHKSZ](https://zhenmaochan.github.io/), Shenzhen.
