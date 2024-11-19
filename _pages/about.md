@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/79b32f95-3478-477a-9623-50716ba62d7e)---
 permalink: /
 title: ""
 excerpt: ""
