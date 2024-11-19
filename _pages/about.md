@@ -1,3 +1,4 @@
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -55,7 +56,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 🎖 Honors and Awards
 - *2023.03* . Provincial Outstanding Graduates in USTC (安徽省优秀毕业生) (4%)
 - *2023.02* . “Yuet Kwan” Merit Scholarship (悦群品学兼优奖学金)(2%)
-- *2023.02* . First Prize in the 12th Chinese Collegiate Computing Competition (中国大学生计算机设计大赛国赛一等奖)(5%)
+- *2023.02* . First Prize in the 12th Chinese Collegiate Computing Competition (中国大学生计算机设计大赛 国赛一等奖)(5%)
 - *2021.01* . CCF Big Data &Computing Intelligence Contest Top 10%
 - *2017.12* . National Inspirational Scholarship (5%)
 
