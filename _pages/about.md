@@ -36,7 +36,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing</div><img src='images/Graphical abstract.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Application of a Fusion Model Based on Machine Learning in Visibility Prediction](https://www.mdpi.com/2072-4292/15/5/1450/pdf?version=1678355819)
