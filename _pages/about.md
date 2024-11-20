@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+{% assign url = https://cdn.jsdelivr.net/gh/zhenmaochan/zhenmaochan.github.io@google-scholar-stats/gs_data_shieldsio.json %}
+
 <span class='anchor' id='about-me'></span>
 
 I work at CIAI (Central China Institute of Artificial Intelligence)  as a researcher now in Zhengzhou.
@@ -25,9 +27,9 @@ I graduated from University of Science and Technology of China with a master’s
 
 I won the “Yuet Kwan” Merit Scholarship (悦群品学兼优奖学金)(2%) in 2023 and was selected as Provincial Outstanding Graduates in USTC (安徽省优秀毕业生) (4%).
 
-My research interest includes LLM inference acceleration and AI4Science. I have published 2 papers at the international academic journals and conferences with total <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes LLM inference acceleration and AI4Science. I have published 2 papers at the international academic journals and conferences with total <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'>google scholar citations <strong><span id='total_cit'>10+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OmiXteIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">10</a>).
 
-citations: <span class='show_paper_citations' data='OmiXteIAAAAJ:a0OBvERweLwC'></span>
+<span class='show_paper_citations' data='OmiXteIAAAAJ:a0OBvERweLwC'></span>
 If you are seeking any form of academic cooperation, please feel free to email me at zhenmaochan@mail.ustc.edu.cn.
 
 # 🔥 News
