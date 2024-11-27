@@ -73,4 +73,4 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 💻 Internships
 - *2023.09 - 2024.06*, work as a RA in [CUHKSZ](https://zhenmaochan.github.io/), Shenzhen.
 
-<a href='https://clustrmaps.com/site/1c2qw'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=000000&w=300&t=tt&d=cXijX8Yd240olD5UFvka2lFbWawGcV5HCDboldZ7N9Y&co=ffffff&ct=000000'/></a>
+<a href='https://clustrmaps.com/site/1c2qw'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=300&t=tt&d=cXijX8Yd240olD5UFvka2lFbWawGcV5HCDboldZ7N9Y&co=ffffff&ct=808080'/></a>
