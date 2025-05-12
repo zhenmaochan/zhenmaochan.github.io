@@ -23,7 +23,7 @@ I work at CIAI (Central China Institute of Artificial Intelligence)  as a resear
 
 I am now working on LLM inference acceleration and AI4Science research, advised by Ming Li (李明).
 
-I graduated from University of Science and Technology of China with a master’s degree, advised by Tao Luo (罗涛) and Xuebin Li (李学彬). 
+I graduated from University of Science and Technology of China with a master’s degree, advised by Tao Luo and Xuebin Li. 
 
 I won the “Yuet Kwan” Merit Scholarship (悦群品学兼优奖学金)(2%) in 2023 and was selected as Provincial Outstanding Graduates in USTC (安徽省优秀毕业生) (4%).
 
